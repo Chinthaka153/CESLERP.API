@@ -1,0 +1,6 @@
+ProjectsDbService
+------------------
+
+public async Task<Result<string>> SaveJobCodeAsync(JobCodeSaveVM data, Guid userId, Guid userEmployeeId, string mode = "add")
+
+public async Task<Result<string>> UpdateJobCodeAsync(JobCodeSaveVM data, Guid userId, Guid userEmployeeId)
