@@ -1,1 +1,10 @@
+ProjectsDbService
+------------------
 
+public async Task<Result<string>> SaveJobCodeAsync(JobCodeSaveVM data, Guid userId, Guid userEmployeeId, string mode = "add")
+
+////////////////////
+JobCodeFunctions
+----------------
+
+public async Task<IActionResult> SaveJobCode([HttpTrigger(AuthorizationLevel.Function, "post", Route = "jobcode/save")] HttpRequest req)
