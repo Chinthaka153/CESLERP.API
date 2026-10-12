@@ -1,0 +1,7 @@
+General Documents
+
+SaveGeneralDocument
+DownloadGeneralDocumentAttachment
+GetGeneralDocumentSummary
+GetGeneralDocumentForEdit
+
