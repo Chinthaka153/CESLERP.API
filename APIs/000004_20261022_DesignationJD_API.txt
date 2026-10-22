@@ -1,0 +1,8 @@
+Request Tracker
+	*GetAllRoles
+
+HRM
+	*GetDesignationJD
+	*UploadDesignationJD
+	*DeleteDesignationJD
+	*DownloadDesignationJD
