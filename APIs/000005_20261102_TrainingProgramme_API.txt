@@ -1,0 +1,8 @@
+GetTrainingSummary
+SaveTraining
+GetTrainingById
+GetTrainingParticipants
+GetTrainingBases
+GetTrainingQrInfo
+RegisterTraining
+MarkTrainingAttendance
