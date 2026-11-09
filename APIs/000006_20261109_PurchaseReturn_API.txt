@@ -1,3 +1,4 @@
-GetGRNReturnableItems
-GetGRNPurchaseReturns
-SaveGRNPurchaseReturn
+Stores
+  GetGRNReturnableItems
+  GetGRNPurchaseReturns
+  SaveGRNPurchaseReturn
